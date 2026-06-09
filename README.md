@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:2b1055,35:6a11cb,70:9b2cff,100:ff5f6d&text=Olá,%20eu%20sou%20Vinícius&fontColor=ffffff&fontSize=38&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20IT%20Operations%20%7C%20Automation&descAlignY=66&descSize=16" alt="Banner de apresentação do Vinícius Ferreira dos Santos" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1A0A1D,45:28112B,75:43204D,100:5E5E63&text=Olá,%20eu%20sou%20o%20Vinícius&fontColor=FFFFFF&fontSize=42&fontAlignY=40&desc=Desenvolvedor%20Full-Stack&descAlignY=54&descSize=20&reversal=false&animation=fadeIn&textBg=false" alt="Banner de apresentação do Vinícius Ferreira dos Santos" />
 
 <br />
 
