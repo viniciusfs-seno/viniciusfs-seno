@@ -1,22 +1,11 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Vinícius
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:2b1055,35:6a11cb,70:9b2cff,100:ff5f6d&text=Olá,%20eu%20sou%20Vinícius&fontColor=ffffff&fontSize=38&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20IT%20Operations%20%7C%20Automation&descAlignY=66&descSize=16" alt="Banner de apresentação do Vinícius Ferreira dos Santos" />
 
-```txt
- __      __ _       _        _             
- \ \    / /(_)     (_)      (_)            
-  \ \  / /  _ _ __  _  ___  _ _   _ ___   
-   \ \/ /  | | '_ \| |/ __|| | | | / __|  
-    \  /   | | | | | | (__ | | |_| \__ \  
-     \/    |_|_| |_|_|\___||_|\__,_|___/  
-```
+<br />
 
-### Full-Stack Developer | IT Operations | Automation
-
-Profissional de TI e desenvolvedor full-stack com experiência em suporte técnico, operações de TI, desenvolvimento web, automações, bancos de dados e implantação de sistemas.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinícius%20Ferreira%20dos%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viniciusfs)
-[![GitHub](https://img.shields.io/badge/GitHub-viniciusfs--seno-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viniciusfs-seno)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinícius%20Ferreira%20dos%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viniciusfs-seno)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Em%20desenvolvimento-7B2CBF?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/SenoPersonalProjects/viniciusferreira-portifolio)
 [![Email](https://img.shields.io/badge/Email-viniciusfs.contato%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusfs.contato@gmail.com)
 
 </div>
